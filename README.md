@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 <h3align="left">About Me</h3>
 <p>Hi there,I'm a computer science student, I like anime, basketball, learn new things and meet new people XD <br/>
-I'm currently a fullstack developer, i really like spring(Java and slearning Kotlin) and react, but I have a lot of cool little projects with other technologies. <br/>
+I'm currently a fullstack developer, i really like spring(Java and learning Kotlin) and react, but I have a lot of cool little projects with other technologies. <br/>
 Look at will, if you find any interesting code or examples you'd like to replicate, feel free to use it however you like.
 </p>
 <h3 align="left">Languages and Tools:</h3>

@@ -34,7 +34,7 @@ Look at will, if you find any interesting code or examples you'd like to replica
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RianC4rl0s&layout=compact&theme=radical&hide=c%2B%2B)](https://github.com/RianC4rl0s)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RianC4rl0s&theme=radical&hide=prs,issue&include_all_commits=true&show_icons=true&count_private=true?count_private=true&card_width=400px)](https://github.com/RianC4rl0s)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RianC4rl0s&theme=radical&hide=prs,issue&show_icons=true&count_private=true?count_private=true&card_width=400px)](https://github.com/RianC4rl0s)
 
 <hr/>
 
